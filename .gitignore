@@ -1,0 +1,14 @@
+# Local CV/resume and private documents
+/Hemant_Achhami.pdf
+cv/
+resume/
+private/
+*.pdf
+*.docx
+*.doc
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
